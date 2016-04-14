@@ -1,0 +1,2 @@
+slackline: slackline rot13bot.asgi:channel_layer --log-level=debug
+worker: python manage.py runworker
